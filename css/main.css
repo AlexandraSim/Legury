@@ -62,7 +62,7 @@ ul, li {
 
 .header {
 	/*parallax */
- 	background-image: url("../img/bg.png");
+ 	background-image: url("img/bg.png");
 
 	/* Set a specific height */
 	min-height: 70vh;/*500px*/
@@ -185,7 +185,7 @@ ul, li {
 .box {
 	width: 350px;
 	height: 610px;
-	/*background: url(../img/pic1.png) no-repeat;*/
+	/*background: url(img/pic1.png) no-repeat;*/
 	background: #fff;
 	display: flex;
 	flex-direction: row;
@@ -270,7 +270,7 @@ ul, li {
 .video-bl {
 	max-width: 100%;
 	min-height: 70vh;
-	background: url(../img/img-video.jpeg) no-repeat center;
+	background: url(img/img-video.jpeg) no-repeat center;
 	display: flex;
 	align-items: center;
 	justify-content: center;
