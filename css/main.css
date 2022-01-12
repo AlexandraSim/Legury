@@ -62,7 +62,7 @@ ul, li {
 
 .header {
 	/*parallax */
- 	background-image: url("img/bg.png");
+ 	background-image: url("../img/bg.png");
 
 	/* Set a specific height */
 	min-height: 70vh;/*500px*/
@@ -270,7 +270,7 @@ ul, li {
 .video-bl {
 	max-width: 100%;
 	min-height: 70vh;
-	background: url(img/img-video.jpeg) no-repeat center;
+	background: url(../img/img-video.jpeg) no-repeat center;
 	display: flex;
 	align-items: center;
 	justify-content: center;
