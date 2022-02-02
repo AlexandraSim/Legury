@@ -99,6 +99,7 @@ ul, li {
 }
 .nav-ul li {
     position: relative;
+    padding-bottom: 10px;
 }
 
 /*hover nav-ul*/
