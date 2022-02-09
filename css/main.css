@@ -842,7 +842,10 @@ ul, li {
 	} 
 	.hamburger {
         margin-top: 35px;
-    }
+   	}
+	.header {
+    	background: url("../img/mob_bg.WebP") no-repeat;
+	}
 	.section_first-title {
 		font-size: 2.5rem;
 	}
