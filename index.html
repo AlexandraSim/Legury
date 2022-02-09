@@ -158,14 +158,14 @@
 			</div>
 			<div class="trailer">
 				<video width="100%" height="100%" src="img/trailer.mp4" controls="true" loop autoplay></video>
-				<img width="56" height="56" src="img/close.svg" class="close" onclick="toggle();">
+				<img width="32" height="32" src="img/close.svg" class="close" onclick="toggle();">
 			</div>
 			<script type="text/javascript">
 					function toggle(){
 						var trailer= document.querySelector(".trailer")
 						var video= document.querySelector(".video")
 						trailer.classList.toggle("active");
-						video.pause();
+						video.pause = true;
 						video.currentTime = 0;
 					}
 			</script>
